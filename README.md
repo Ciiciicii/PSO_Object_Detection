@@ -1,3 +1,3 @@
 # PSO Object Detection
-Particle swarm optimization algorithms lelelelel
+Particle swarm optimization algorithms.
 
